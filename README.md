@@ -1,0 +1,2 @@
+# PegasusZ
+new project
